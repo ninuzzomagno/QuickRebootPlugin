@@ -1,0 +1,1 @@
+/usr/local/vitasdk/bin/arm-vita-eabi-gcc  -Wl,-q -Wall -nostdlib  -Wl,-z,nocopyreloc CMakeFiles/QuickReboot.dir/src/main.c.obj  -o QuickReboot  -lSceLibc_stub_weak -lSceSysmem_stub_weak -lSceSysmodule_stub_weak -lSceLibKernel_stub_weak -lSceKernelThreadMgr_stub_weak -lSceKernelModulemgr_stub_weak -lQuickMenuReborn_stub_weak -lScePower_stub 

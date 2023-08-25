@@ -1,0 +1,5 @@
+/home/ninuzzomagno/PSVITA/QuickReboot/build/CMakeFiles/rebuild_cache.dir
+/home/ninuzzomagno/PSVITA/QuickReboot/build/CMakeFiles/edit_cache.dir
+/home/ninuzzomagno/PSVITA/QuickReboot/build/CMakeFiles/QuickReboot.suprx.dir
+/home/ninuzzomagno/PSVITA/QuickReboot/build/CMakeFiles/QuickReboot-velf.dir
+/home/ninuzzomagno/PSVITA/QuickReboot/build/CMakeFiles/QuickReboot.dir

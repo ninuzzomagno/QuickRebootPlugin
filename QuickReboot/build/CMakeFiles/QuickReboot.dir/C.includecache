@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ninuzzomagno/PSVITA/QuickReboot/src/main.c
+psp2/kernel/clib.h
+-
+psp2/io/fcntl.h
+-
+psp2/kernel/sysmem.h
+-
+psp2/kernel/modulemgr.h
+-
+psp2/sysmodule.h
+-
+quickmenureborn/qm_reborn.h
+-
+psp2common/power.h
+-
+
